@@ -1,0 +1,30 @@
+name: medievil_advisor
+description: A Flutter proof of concept for the original MediEvil Advisor backend project - a medieval-themed evil intrusive thoughts assistant using voice interaction
+version: 1.0.0
+
+environment:
+  sdk: '^3.1.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  speech_to_text: ^6.3.0
+  permission_handler: ^10.4.3
+  flutter_bloc: ^8.1.3
+  equatable: ^2.0.5
+  auto_size_text: ^3.0.0
+  just_audio: ^0.9.36
+  get_it: ^7.6.7
+  uuid: ^4.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.4.4
+  bloc_test: ^9.1.5
+  build_runner: ^2.4.8
+
+flutter:
+  assets:
+    - assets/images/the_meme.png 
