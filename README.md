@@ -88,6 +88,14 @@ Built with modern Flutter development principles:
 
 **Note**: This app requires a backend server to be running for full functionality. You must configure your own backend endpoint in `lib/core/config/api_config.dart`. The backend handles the AI-powered response generation and provides audio responses.
 
+## 🎬 Demo
+
+See the MediEvil Advisor in action! Watch the demo video to see the complete voice interaction flow:
+
+📱 **[Watch Demo Video](assets/demos/demo.webm)**
+
+*The demo shows the complete user experience: voice input, AI processing, and medieval advisor response with audio playback.*
+
 ## 🧪 Testing
 
 Run the comprehensive test suite:
